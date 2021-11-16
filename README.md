@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Stine 👋
+
+I'm a 3rd semester multimedia design student at @KEA interested in frontend and project management.
 
 <!--
 **StinePS/StinePS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
