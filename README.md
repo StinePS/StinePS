@@ -4,8 +4,8 @@ I'm a 3rd semester multimedia design student at KEA interested in frontend and p
 
 I like playfull sites and orderly code 💜, and love coding projects from scratch 🔧
 
-### Reach me! 📫
-Linkedin: [@stine-plejdrup-schmidt](https://www.linkedin.com/in/stine-plejdrup-schmidt/)
+#### Reach me! 📫
+- Linkedin [@stine-plejdrup-schmidt](https://www.linkedin.com/in/stine-plejdrup-schmidt/)
 
 <!--
 **StinePS/StinePS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
