@@ -1,6 +1,8 @@
 ### Hi, I'm Stine 👋
 
-I'm a 3rd semester multimedia design student at @KEA interested in frontend and project management.
+I'm a 3rd semester multimedia design student at KEA interested in frontend and project management.
+
+I like playfull sites and orderly code, and love coding projects from scratch!
 
 <!--
 **StinePS/StinePS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
