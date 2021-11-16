@@ -4,17 +4,17 @@ I'm a 3rd semester multimedia design student at KEA interested in frontend and p
 
 I like playfull sites and orderly code 💜 and love coding projects from scratch 🔧
 
-## Currently I'm 📆
+### Currently I'm 📆
 - Learning React 💻
 - Preparing for 3rd semester exam 📚
 - Looking for an internship starting ultimo January 2022 ❄️
 
-## Fun facts ⚡
+### Fun facts ⚡
 - I'm a trained confectioner 🍰
 - I've got a French bulldog name Hubert 🐾
 - I love chai latte 🫖 (and don't drink coffee 😱)
 
-## Reach me 📫
+### Reach me 📫
 - Linkedin [@stine-plejdrup-schmidt](https://www.linkedin.com/in/stine-plejdrup-schmidt/) 🔗
 - Twitter [@StinePlejdrup](https://twitter.com/StinePlejdrup) 🐦
 
