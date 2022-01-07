@@ -5,7 +5,7 @@ I'm a 3rd semester multimedia design student at KEA interested in frontend and p
 I like playfull sites and orderly code 💜 and love coding projects from scratch 🔧
 
 ### Currently I'm 📆
-- Learning React 💻
+- Learning Next.js 💻
 - Preparing for 3rd semester exam 📚
 - Getting excited about my internship starting ultimo January 2022 ❄️
 
