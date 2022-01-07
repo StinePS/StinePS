@@ -7,7 +7,7 @@ I like playfull sites and orderly code 💜 and love coding projects from scratc
 ### Currently I'm 📆
 - Learning React 💻
 - Preparing for 3rd semester exam 📚
-- Looking for an internship starting ultimo January 2022 ❄️
+- Getting excited about my internship starting ultimo January 2022 ❄️
 
 ### Fun facts ⚡
 - I'm a trained confectioner 🍰
