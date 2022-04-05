@@ -1,13 +1,13 @@
 # Hi, I'm Stine 👋
 
-I'm a 3rd semester multimedia design student at KEA interested in frontend and project management 🤓
+I'm a 4th semester multimedia design student at KEA interested in frontend and project management 🤓
 
-I like playfull sites and orderly code 💜 and love coding projects from scratch 🔧
+I like playfull sites and orderly code 💜, love coding projects from scratch 🔧 and keeping track of deadlines, sprints and more 📋!
 
 ### Currently I'm 📆
-- Learning Next.js 💻
-- Preparing for 3rd semester exam 📚
-- Getting excited about my internship starting ultimo January 2022 ❄️
+- Learning Next.js, Typescript & Tailwind CSS 💻
+- Preparing for 4th semester exam project 📚
+- Figuring out where to apply for a job after the final exam in June
 
 ### Fun facts ⚡
 - I'm a trained confectioner 🍰
