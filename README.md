@@ -7,13 +7,24 @@ I like playfull sites and orderly code 💜, love coding projects from scratch �
 ### Currently I'm 📆
 - Looking for a job as junior project manager, maybe in combination with frontend?!
 
+### I've got experience with 💻
+- HTML5, CSS & Javascript
+- Next.js & Tailwind
+- Magento (CMS)
+- Adobe Photoshop & Illustrator
+
+### ...and had a taste of 😋
+- SASS, Stitches & Typescript
+- Uniform & Strapi
+- Figma & Adobe XD
+
 ### Fun facts ⚡
-- I'm a trained confectioner 🍰
+- I'm a trained confectioner 🍰 and PADI diving instructor 🤿
 - I've got a French bulldog name Hubert 🐾
 - I love chai latte 🫖 (and don't drink coffee 😱)
 
 ### Reach me 📫
-- Linkedin [@stine-plejdrup-schmidt](https://www.linkedin.com/in/stine-plejdrup-schmidt/) 🔗
+- LinkedIn [@stine-plejdrup-schmidt](https://www.linkedin.com/in/stine-plejdrup-schmidt/) 🔗
 - Twitter [@StinePlejdrup](https://twitter.com/StinePlejdrup) 🐦
 
 <!--
