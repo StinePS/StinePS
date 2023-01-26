@@ -1,22 +1,24 @@
 # Hi, I'm Stine 👋
 
-I'm a multimedia designer interested in frontend and project management 🤓
+I'm a multimedia designer interested in project management and frontend design 🤓
 
-I like playfull sites and orderly code 💜, love coding projects from scratch 🔧 and keeping track of deadlines, sprints and more 📋!
+I like playfull sites and orderly code, and love planning, organizing and keeping track of deadlines, sprints and more 📋!
 
 ### Currently I'm 📆
-- Looking for a job as junior project manager, maybe in combination with frontend?!
+- Looking for a job as junior project manager (or similar), maybe in combination with frontend?!
 
 ### I've got experience with 💻
 - HTML5, CSS & Javascript
 - Next.js & Tailwind
 - Magento (CMS)
 - Adobe Photoshop & Illustrator
+- C5
 
 ### ...and had a taste of 😋
 - SASS, Stitches & Typescript
 - Uniform & Strapi
 - Figma & Adobe XD
+- Jira
 
 ### Fun facts ⚡
 - I'm a trained confectioner 🍰 and PADI diving instructor 🤿
