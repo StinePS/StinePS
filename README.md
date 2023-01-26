@@ -14,7 +14,7 @@ I like playfull sites and orderly code, and love planning, organizing and keepin
 - Adobe Photoshop & Illustrator
 - C5
 
-### ...and had a taste of 😋
+### ...and have had a taste of 😋
 - SASS, Stitches & Typescript
 - Uniform & Strapi
 - Figma & Adobe XD
